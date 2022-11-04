@@ -1,19 +1,24 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=MariaMilena%20&fontAlignY=40&color=gradient)
 
  
-![](https://visitor-badge.glitch.me/badge?page_id=mariamilena.mariamilena)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mariamilena.mariamilena&color=621587&style=for-the-badge&logo=Github)
+
+
+
 <!-- ![](https://komarev.com/ghpvc/?username=MariaMilena&style=for-the-badge&color=blueviolet)--> 
  <!-- GITHUB STATS -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MariaMilena&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=MariaMilena&hide_border=true&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MariaMilena&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true"/></a> | [![](https://github-readme-streak-stats.herokuapp.com/?user=MariaMilena&hide_border=true&theme=midnight-purple)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | ------------- | ------------- |
 
 <!-- ------------------------------- -->
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaMilena&theme=dracula)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMilena&layout=compact&langs_count=7&theme=dracula) |
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaMilena&theme=radical)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMilena&layout=compact&langs_count=7&theme=midnight-purple) |
 | ------------- | ------------- |
 <!-- ------------------------------- -->
 
 <!-- GITHUB GRAPH -->
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MariaMilena&theme=dracula&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MariaMilena&theme=midnight-purple&hide_border=true&area=true)
+ 
+ 
  
 <div style="display: inline_block"><br>  
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -39,10 +44,10 @@
   
   ##
  
+ 
 <div> 
   <a href = "mailto:milena20182018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mm1l3n4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-milena-de-oliveira-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
 </div>
+
